@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielaaz04
-- 👀 I am a self taught data scientist always looking for new challenges. I like to use Python or SQL in Jupyter Notebooks and I love to enroll in datatohns. 
-- 💞️ I’m looking to learn more about cloud data projects, specially oriented to education.
+- 👀 I am a self taught data scientist. I like to use Python or SQL and I enjoy a lot participating in datatohns with new challenges from different industries. 
+- 💞️ Now I’m looking to learn more about cloud data projects.
 - 📫 How to reach me: Send me a message on my Linkedin profile ( https://www.linkedin.com/in/danielaaz04/ ) and I will answer as soon as possible.
 
 <!---
