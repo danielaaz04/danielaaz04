@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielaaz04
-- 👀 I am a self taught data scientist. I like to use Python or SQL and I enjoy a lot participating in datatohns with new challenges from different industries. 
+- 👀 I am a self taught data scientist. I like to use Python to build machine learning models and I enjoy a lot participating in datatohns with new challenges from different industries. 
 - 💞️ Now I’m looking to learn more about cloud data projects.
 - 📫 How to reach me: Send me a message on my Linkedin profile ( https://www.linkedin.com/in/danielaaz04/ ) and I will answer as soon as possible.
 
